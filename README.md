@@ -4,7 +4,7 @@ python шпора.ipynb - шпаргалка по python
 
 sql comands - команды для sql запросов
 
-[certificate-1.pdf](https://github.com/NeFey/About-Novokshonov-Timofey-work-files/files/10088134/certificate-1.pdf)
+Сертификат за урок цифры [certificate-1.pdf](https://github.com/NeFey/About-Novokshonov-Timofey-work-files/files/10088134/certificate-1.pdf)
 
 $\textcolor{white}{E_{1}\overline{}^{2}=\sqrt{\frac{Fa^{x-1}}{(x-1)x}}+a^{\frac{1}{3}}{1}+B{2}^{\frac{2}{3}}}$
 
