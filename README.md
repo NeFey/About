@@ -14,3 +14,4 @@ $\textcolor{white}{E_{п}=\frac{kx_{0}^{2}}{2}}$
 
 ![изображение](https://user-images.githubusercontent.com/114712728/205198334-2a974483-5a70-400d-9754-b92d06d0d13b.png)
 
+Профиль CODEPEN https://codepen.io/NeFey
