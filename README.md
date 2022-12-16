@@ -1,3 +1,6 @@
+мой сайт - https://nefey.github.io/
+
+
 bdtest.py - создание таблиц баз данных
 
 python шпора.ipynb - шпаргалка по python
