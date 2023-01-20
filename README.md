@@ -21,3 +21,8 @@ $\textcolor{white}{E_{п}=\frac{kx_{0}^{2}}{2}}$
 
 
 ![mermaid-diagram-2022-12-23-092137](https://user-images.githubusercontent.com/114712728/209258723-e017c1d1-d6c9-4bc7-a731-71735de080d2.png)
+
+
+Урок цифры 20.01
+[certificate.pdf](https://github.com/NeFey/About-Novokshonov-Timofey-work-files/files/10463538/certificate.pdf)
+
