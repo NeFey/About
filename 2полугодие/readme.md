@@ -39,3 +39,19 @@ print(b)
 b="10"+b+"1"
 c=int(b,2)
 print(c)
+
+
+черепаха
+from turtle import *
+left(90)
+forward(220)
+right(90)
+forward(220)
+right(135)
+forward(320)
+pu()
+for x in range(0,15):
+    for y in range(1,15):
+        goto(x*15,y*15)
+        dot(3)
+done()
